@@ -3,4 +3,8 @@ esta es la history de freddy vega
 freddy vega tiene 33 años y nación en colombia,
 viviendo en todo el mundo
 
+<<<<<<< HEAD
 hoy hablaremos de su vida y obra mestra.
+=======
+Mañana nos enfocaremos en su vida laboral.
+>>>>>>> cabecera
